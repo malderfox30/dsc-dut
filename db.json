@@ -1,0 +1,24 @@
+{
+  "api": [
+		{
+			"id": "1",
+	    "name": "Rim",
+			"full_name": "Nguyen Huu Nguyen Y",
+			"contact": "linkedin.com/...",
+			"role": "DSC Lead",
+			"department": "DSC-DUT Lead",
+			"avatar": "liglqz3iwjncdg26memt.png",
+			"biography": "..."
+	  },
+		{
+			"id": "2",
+	    "name": "Phu Dang",
+			"full_name": "Dang Ngoc Phu",
+			"contact": "linkedin.com/...",
+			"role": "Technical Leader",
+			"department": "DSC-DUT Lead",
+			"avatar": "liglqz3iwjncdg26memt.png",
+			"biography": "..."
+	  }
+	]
+}
