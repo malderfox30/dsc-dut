@@ -1,324 +1,375 @@
 {
-  "api": [
+  "members": [
 		{
 			"id": "1",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
+			"name": "Rim",
+			"fullName": "Nguyen Huu Nguyen Y",
 			"role": "DSC Lead",
 			"department": "DSC-DUT Lead",
+			"contact": "",
 			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"biography": ""
+		 },
+		 {
 			"id": "2",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Tien Van Nguyen",
+			"fullName": "Nguyen Tien Van",
+			"role": "Backend",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "hhfzimie53hwbcwvayk9.png",
+			"biography": ""
+		 },
+		 {
 			"id": "3",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
+			"name": "Quyen Huynh",
+			"fullName": "Huynh Thi Ngoc Quyen",
+			"role": "Head of Marketing",
 			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "cysl6urqbpw6lqyczym4.png",
+			"biography": ""
+		 },
+		 {
 			"id": "4",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Huong Le",
+			"fullName": "Le Lien Huong",
+			"role": "Frontend",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "ag0oxahgjei3jxcrezd3.png",
+			"biography": ""
+		 },
+		 {
 			"id": "5",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Linh Nguyen",
+			"fullName": "Nguyen Thi Thuy Linh",
+			"role": "Event",
+			"department": "Event",
+			"contact": "",
+			"avatar": "i5z3wul4juseigx6hjqs.png",
+			"biography": ""
+		 },
+		 {
 			"id": "6",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Hang Nguyen",
+			"fullName": "Nguyen Thi Thao Hang",
+			"role": "Media",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "dvfsgwt4lq80oonrpp6g.png",
+			"biography": ""
+		 },
+		 {
 			"id": "7",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Huyen Thai",
+			"fullName": "Thai Khanh Huyen",
+			"role": "Social Media",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "wcigp6mjehz2riedqvjt.png",
+			"biography": ""
+		 },
+		 {
 			"id": "8",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Linh Nguyen",
+			"fullName": "Nguyen Dinh Khanh Linh",
+			"role": "Design",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "mjgwkkdzx22cw6eft6ob.png",
+			"biography": ""
+		 },
+		 {
 			"id": "9",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Huong Nguyen",
+			"fullName": "Nguyen Linh Huong",
+			"role": "Social Media",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "efyo5boc7nzvjcwze6gc.png",
+			"biography": ""
+		 },
+		 {
 			"id": "10",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Kim Oanh Do",
+			"fullName": "Do Thi Kim Oanh",
+			"role": "Design",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "onymohdqbvr9xyrhcfdl.png",
+			"biography": ""
+		 },
+		 {
 			"id": "11",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Hai Le",
+			"fullName": "Le Hong Hai",
+			"role": "Social Media",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "xyu11jgg7woltbk8pdvn.png",
+			"biography": ""
+		 },
+		 {
 			"id": "12",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Duyen Tran",
+			"fullName": "Tran Thi Thuy Duyen",
+			"role": "Social Media",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "qyuhm3vonydiucq0juwc.png",
+			"biography": ""
+		 },
+		 {
 			"id": "13",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Trung Le",
+			"fullName": "Le Viet Trung",
+			"role": "Machine Learning",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "hliirhp0a9ksktsu31wu.png",
+			"biography": ""
+		 },
+		 {
 			"id": "14",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
+			"name": "Phu Dang",
+			"fullName": "Dang Ngoc Phu",
+			"role": "Technical Lead",
 			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "qkrorhltulkyezri3wvy.png",
+			"biography": ""
+		 },
+		 {
 			"id": "15",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Thuy Linh Phan",
+			"fullName": "Phan Thi Thuy Linh",
+			"role": "Social Media",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "eotjlsamv4uxcncsy0to.png",
+			"biography": ""
+		 },
+		 {
 			"id": "16",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Thang Do",
+			"fullName": "Do Huu Nguyen Thang",
+			"role": "Backend",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "viyc64cx9mpaumhkz69l.png",
+			"biography": ""
+		 },
+		 {
 			"id": "17",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Duc Le",
+			"fullName": "Le Vinh Nhan Duc",
+			"role": "Mobile",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "puls5naarpaibvfohm09.png",
+			"biography": ""
+		 },
+		 {
 			"id": "18",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Minh Duc Nguyen",
+			"fullName": "Nguyen Minh Duc",
+			"role": "Mobile",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "iuw0grjsqn4djhaj2081.png",
+			"biography": ""
+		 },
+		 {
 			"id": "19",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Tan Phat Nguyen",
+			"fullName": "Nguyen Tan Phat",
+			"role": "Frontend",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "fydumlmcmkhtddwt1rhw.png",
+			"biography": ""
+		 },
+		 {
 			"id": "20",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
+			"name": "Khanh Vy Tran",
+			"fullName": "Tran Thi Khanh Vy",
+			"role": "Head of Business",
 			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "x37nucljqatculp5i7qc.png",
+			"biography": ""
+		 },
+		 {
 			"id": "21",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
+			"name": "Nha Vy Pham",
+			"fullName": "Pham Thi Nha Vy",
+			"role": "Head of Business",
 			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "ggprhzykga3uhzcwt6aa.png",
+			"biography": ""
+		 },
+		 {
 			"id": "22",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Linh Huynh",
+			"fullName": "Huynh Thi Khanh Linh",
+			"role": "Frontend",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "vdrcbq3dleqmwqbenvp8.png",
+			"biography": ""
+		 },
+		 {
 			"id": "23",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
+			"name": "Nguyen Tran",
+			"fullName": "Tran Dinh Phuc Nguyen",
+			"role": "Head of Events",
 			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "xal8mlsssao3r98lf5u6.png",
+			"biography": ""
+		 },
+		 {
 			"id": "24",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Lam Pham",
+			"fullName": "Pham Tran Thanh Lam",
+			"role": "Event",
+			"department": "Event",
+			"contact": "",
+			"avatar": "jkioyma0llwyc53albio.png",
+			"biography": ""
+		 },
+		 {
 			"id": "25",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "DSC-DUT Lead",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Kim Chi Le",
+			"fullName": "Le Thi Kim Chi",
+			"role": "Backend",
+			"department": "Technical Team",
+			"contact": "",
+			"avatar": "wvhdwfweh7wqwfdyrbmm.png",
+			"biography": ""
+		 },
+		 {
 			"id": "26",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "Technical Team",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Nguyen Van",
+			"fullName": "Van Le Thao Nguyen",
+			"role": "Media",
+			"department": "Marketing",
+			"contact": "",
+			"avatar": "pcvol212bquq8aqfcr0d.png",
+			"biography": ""
+		 },
+		 {
 			"id": "27",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
+			"name": "Ich Hoa Nguyen",
+			"fullName": "Nguyen Ich Hoa",
+			"role": "Backend",
 			"department": "Technical Team",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "mjjtdqzs77pgr4rzmrzp.png",
+			"biography": ""
+		 },
+		 {
 			"id": "28",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "Technical Team",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Thanh Huy Phan",
+			"fullName": "Phan Thanh Huy",
+			"role": "Technical Lead",
+			"department": "DSC-DUT Lead",
+			"contact": "",
+			"avatar": "uypzgdz0jagj8tseskt4.png",
+			"biography": ""
+		 },
+		 {
 			"id": "29",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
+			"name": "Duc Huy Nguyen",
+			"fullName": "Nguyen Huu Duc Huy",
+			"role": "Frontend",
 			"department": "Technical Team",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "xpjdy05kndv7mkt6jygd.png",
+			"biography": ""
+		 },
+		 {
 			"id": "30",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
+			"name": "Ba Hoang Nguyen",
+			"fullName": "Nguyen Ba Hoang",
+			"role": "Machine Learning",
 			"department": "Technical Team",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"contact": "",
+			"avatar": "qumecd9rzdevh94yl4o6.png",
+			"biography": ""
+		 },
+		 {
 			"id": "31",
-	    "name": "Rim",
-			"full_name": "Nguyen Huu Nguyen Y",
-			"contact": "linkedin.com/...",
-			"role": "DSC Lead",
-			"department": "Technical Team",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  },
-		{
+			"name": "Mien Ho",
+			"fullName": "Ho Nhat Thao Mien",
+			"role": "Event",
+			"department": "Event",
+			"contact": "",
+			"avatar": "ggpxwto2nrf6avq6svrm.png",
+			"biography": ""
+		 },
+		 {
 			"id": "32",
-	    "name": "Phu Dang",
-			"full_name": "Dang Ngoc Phu",
-			"contact": "linkedin.com/...",
-			"role": "Technical Leader",
-			"department": "Technical Team",
-			"avatar": "liglqz3iwjncdg26memt.png",
-			"biography": "..."
-	  }
+			"name": "Quang Nguyen",
+			"fullName": "Nguyen Ngoc Quang",
+			"role": "Technical Lead",
+			"department": "DSC-DUT Lead",
+			"contact": "",
+			"avatar": "kl8kx2ai05p6ocxxz65i.png",
+			"biography": ""
+		 }
+	],
+	"products": [
+		{
+			"id": "1",
+			"name": "Unigo",
+			"image": "https://res.cloudinary.com/dz5pvwzm5/image/upload/q_100/v1624163711/dsc_images/products/d6kmrgswufje9bwd3qwu.png",
+			"description": "Interactive map for University",
+			"link": "https://unigo.pro"
+		 },
+		 {
+			"id": "2",
+			"name": "BeeBee Travel",
+			"image": "https://res.cloudinary.com/dz5pvwzm5/image/upload/q_100/v1624163711/dsc_images/products/bnult1cbvw20qv0gedn8.png",
+			"description": "abc",
+			"link": "https://beebee.travel"
+		 },
+		 {
+			"id": "3",
+			"name": "Provo",
+			"image": "https://res.cloudinary.com/dz5pvwzm5/image/upload/q_100/v1624163711/dsc_images/products/pwrie5zbybkizysqf6jo.png",
+			"description": "Learn vocabulary",
+			"link": "https://provo.dscdut.com"
+		 },
+		 {
+			"id": "4",
+			"name": "DSC-DUT URL Shortener",
+			"image": "https://res.cloudinary.com/dz5pvwzm5/image/upload/q_100/v1624163711/dsc_images/products/zr965yqafoadnopjktht.png",
+			"description": "Shorten URL tool",
+			"link": "https://url.dscdut.com"
+		 },
+		 {
+			"id": "5",
+			"name": "Side Project Community",
+			"image": "https://res.cloudinary.com/dz5pvwzm5/image/upload/q_100/v1624163711/dsc_images/products/ydwoudtbxpiac0b56sg4.png",
+			"description": "Learning and doing side projects",
+			"link": "https://www.facebook.com/communitySiP"
+		 },
+		 {
+			"id": "6",
+			"name": "DSC-DUT Loading",
+			"image": "https://res.cloudinary.com/dz5pvwzm5/image/upload/q_100/v1624163711/dsc_images/products/zr965yqafoadnopjktht.png",
+			"description": "DSC Loading animation",
+			"link": "https://loading.vndsc.com"
+		 },
+		 {
+			"id": "7",
+			"name": "DSC-DUT Website",
+			"image": "https://res.cloudinary.com/dz5pvwzm5/image/upload/q_100/v1624163711/dsc_images/products/zr965yqafoadnopjktht.png",
+			"description": "Official website of DSC-DUT",
+			"link": "/"
+		 }
 	]
 }
